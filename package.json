@@ -1,0 +1,19 @@
+{
+    "name": "Jest-Testing-Project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "testWatchAll": "jest --watchAll"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^27.5.1"
+    },
+    "dependencies": {
+        "axios": "^0.26.1"
+    }
+}
